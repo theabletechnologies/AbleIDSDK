@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/JasurSalimov/AbleIDSDK/tree/master/images.logo.png?raw=true" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
+<img src="https://github.com/JasurSalimov/AbleIDSDK/tree/master/images/logo.png?raw=true" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
 </p>
 
 
