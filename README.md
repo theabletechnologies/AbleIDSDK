@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/JasurSalimov/AbleIDSDK/tree/master/images/logo.png?raw=true" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
+<img src="https://raw.githubusercontent.com/JasurSalimov/AbleIDSDK/master/images/logo.png" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
 </p>
 
 
@@ -26,8 +26,11 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 import AbleIDSDK
 
 let transaction: Transaction = .init(id: transactionId)
-AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russian) { result in       
-     debugPrint("Liveness is finished and the result is: ", result)
+AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russian) { result in
+    switch(result){
+    case .success(let response):
+    case .failure(let error):
+    }
 }
 ```
 3. Then in the end all sdk controllers will close and complete with the following result in closure. 
