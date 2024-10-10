@@ -10,7 +10,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'AbleIDSDK'
-  s.version      = '0.0.0'
+  s.version      = '0.0.1'
   s.summary      = 'The AbleIDSDK is solely developed to provide face liveness detection check.'
   s.description  = "The AbleIDSDK is solely developed to provide face liveness detection check and it should be used only with the permission of the The Able Technologies."
   s.homepage     = "https://github.com/JasurSalimov"
