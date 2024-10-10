@@ -1,0 +1,6 @@
+framework module AbleIDSDK {
+  umbrella header "AbleIDSDK.h"
+  export *
+
+  module * { export * }
+}

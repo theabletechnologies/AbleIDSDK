@@ -1,0 +1,317 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AbleIDSDK
+import AVKit
+@_exported import AbleIDSDK
+import DeveloperToolsSupport
+import FaceSDK
+import Foundation
+import QuartzCore
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct BlueDarkStyle : AbleIDSDK.StyleProperty {
+  public var progressSize: CoreFoundation.CGFloat
+  public var arcLineWidth: CoreFoundation.CGFloat
+  public var startArcColor: UIKit.UIColor
+  public var endArcColor: UIKit.UIColor
+  public var baseLineWidth: CoreFoundation.CGFloat?
+  public var baseArcColor: UIKit.UIColor?
+  public var ratioLabelFont: UIKit.UIFont?
+  public var ratioLabelFontColor: UIKit.UIColor?
+  public var messageLabelFont: UIKit.UIFont?
+  public var messageLabelFontColor: UIKit.UIColor?
+  public var backgroundStyle: AbleIDSDK.BackgroundStyles
+  public var dismissTimeInterval: Swift.Double?
+  public init()
+}
+public struct AbleIdConfiguration {
+  public init(screenBackgroundColor: UIKit.UIColor, buttonBackgroundColor: UIKit.UIColor, buttonTitleColor: UIKit.UIColor, livenessSectorTargetColor: UIKit.UIColor)
+}
+public protocol StyleProperty {
+  var progressSize: CoreFoundation.CGFloat { get set }
+  var arcLineWidth: CoreFoundation.CGFloat { get set }
+  var startArcColor: UIKit.UIColor { get set }
+  var endArcColor: UIKit.UIColor { get set }
+  var baseLineWidth: CoreFoundation.CGFloat? { get set }
+  var baseArcColor: UIKit.UIColor? { get set }
+  var ratioLabelFont: UIKit.UIFont? { get set }
+  var ratioLabelFontColor: UIKit.UIColor? { get set }
+  var messageLabelFont: UIKit.UIFont? { get set }
+  var messageLabelFontColor: UIKit.UIColor? { get set }
+  var backgroundStyle: AbleIDSDK.BackgroundStyles { get set }
+  var dismissTimeInterval: Swift.Double? { get set }
+  init()
+}
+public enum BackgroundStyles : Swift.Int {
+  case none
+  case extraLight
+  case light
+  case dark
+  case transparent
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public struct BlueIndicatorStyle : AbleIDSDK.StyleProperty {
+  public var progressSize: CoreFoundation.CGFloat
+  public var arcLineWidth: CoreFoundation.CGFloat
+  public var startArcColor: UIKit.UIColor
+  public var endArcColor: UIKit.UIColor
+  public var baseLineWidth: CoreFoundation.CGFloat?
+  public var baseArcColor: UIKit.UIColor?
+  public var ratioLabelFont: UIKit.UIFont?
+  public var ratioLabelFontColor: UIKit.UIColor?
+  public var messageLabelFont: UIKit.UIFont?
+  public var messageLabelFontColor: UIKit.UIColor?
+  public var backgroundStyle: AbleIDSDK.BackgroundStyles
+  public var dismissTimeInterval: Swift.Double?
+  public init()
+}
+public struct Style : AbleIDSDK.StyleProperty {
+  public var progressSize: CoreFoundation.CGFloat
+  public var arcLineWidth: CoreFoundation.CGFloat
+  public var startArcColor: UIKit.UIColor
+  public var endArcColor: UIKit.UIColor
+  public var baseLineWidth: CoreFoundation.CGFloat?
+  public var baseArcColor: UIKit.UIColor?
+  public var ratioLabelFont: UIKit.UIFont?
+  public var ratioLabelFontColor: UIKit.UIColor?
+  public var messageLabelFont: UIKit.UIFont?
+  public var messageLabelFontColor: UIKit.UIColor?
+  public var backgroundStyle: AbleIDSDK.BackgroundStyles
+  public var dismissTimeInterval: Swift.Double?
+  public init()
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class ShimmeringLayer : QuartzCore.CALayer {
+  final public var isShimmering: Swift.Bool {
+    get
+    set
+  }
+  final public var shimmerSpeed: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  final public var shimmerHighlightLength: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  final public var shimmerDirection: AbleIDSDK.Shimmer.Direction {
+    get
+    set
+  }
+  final public var shimmerPauseDuration: Swift.Double {
+    get
+    set
+  }
+  final public var shimmerAnimationOpacity: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  final public var shimmerOpacity: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  final public var shimmerBeginTime: CoreFoundation.CFTimeInterval {
+    get
+    set
+  }
+  final public var shimmerBeginFadeDuration: Swift.Double
+  final public var shimmerEndFadeDuration: Swift.Double
+  final public var shimmerFadeTime: CoreFoundation.CFTimeInterval?
+  @objc override final public func layoutSublayers()
+  @objc override final public var bounds: CoreFoundation.CGRect {
+    @objc get
+    @objc set
+  }
+  @objc override dynamic public init(layer: Any)
+  @objc deinit
+}
+extension AbleIDSDK.ShimmeringLayer : QuartzCore.CALayerDelegate {
+  @objc final public func action(for layer: QuartzCore.CALayer, forKey event: Swift.String) -> (any QuartzCore.CAAction)?
+}
+extension AbleIDSDK.ShimmeringLayer : QuartzCore.CAAnimationDelegate {
+  @objc final public func animationDidStop(_ anim: QuartzCore.CAAnimation, finished flag: Swift.Bool)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency final public class ShimmeringView : UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency @objc override final public class var layerClass: Swift.AnyClass {
+    @objc get
+  }
+  @_Concurrency.MainActor @preconcurrency final public var contentView: UIKit.UIView {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var isShimmering: Swift.Bool {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerSpeed: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerHighlightLength: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerDirection: AbleIDSDK.Shimmer.Direction {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerPauseDuration: Swift.Double {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerAnimationOpacity: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerOpacity: CoreFoundation.CGFloat {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerBeginTime: CoreFoundation.CFTimeInterval {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerBeginFadeDuration: Swift.Double {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerEndFadeDuration: Swift.Double {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency final public var shimmerFadeTime: CoreFoundation.CFTimeInterval? {
+    get
+    set
+  }
+  @_Concurrency.MainActor @preconcurrency @objc override final public func layoutSubviews()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @objc deinit
+}
+public struct GreenLightStyle : AbleIDSDK.StyleProperty {
+  public var progressSize: CoreFoundation.CGFloat
+  public var arcLineWidth: CoreFoundation.CGFloat
+  public var startArcColor: UIKit.UIColor
+  public var endArcColor: UIKit.UIColor
+  public var baseLineWidth: CoreFoundation.CGFloat?
+  public var baseArcColor: UIKit.UIColor?
+  public var ratioLabelFont: UIKit.UIFont?
+  public var ratioLabelFontColor: UIKit.UIColor?
+  public var messageLabelFont: UIKit.UIFont?
+  public var messageLabelFontColor: UIKit.UIColor?
+  public var backgroundStyle: AbleIDSDK.BackgroundStyles
+  public var dismissTimeInterval: Swift.Double?
+  public init()
+}
+public struct Transaction {
+  public init(id: Swift.String)
+}
+public struct AbleIdLivenessResponse {
+  public let transactionId: Swift.String?
+  public let estimatedAge: Foundation.NSNumber?
+  public let status: Swift.UInt?
+  public let tag: Swift.String?
+  public let error: Foundation.NSError?
+}
+public enum AbleLocale {
+  case uzbek
+  case russian
+  case english
+  case preferred
+  public static func == (a: AbleIDSDK.AbleLocale, b: AbleIDSDK.AbleLocale) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum AbleIdLivenessError : Swift.Error {
+  case userCancellationError
+  case ableLivenessProcessingError
+  case ableInstructionsLoadError
+  public var errorDescription: Swift.String? {
+    get
+  }
+  public static func == (a: AbleIDSDK.AbleIdLivenessError, b: AbleIDSDK.AbleIdLivenessError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public typealias LivenessResult = Swift.Result<AbleIDSDK.AbleIdLivenessResponse, AbleIDSDK.AbleIdLivenessError>
+@_hasMissingDesignatedInitializers final public class AbleID {
+  public static let service: AbleIDSDK.AbleID
+  final public func configure(with configuration: AbleIDSDK.AbleIdConfiguration)
+  final public func startLiveness(from controller: UIKit.UIViewController, transaction: AbleIDSDK.Transaction, locale: AbleIDSDK.AbleLocale = .preferred, completion: @escaping (AbleIDSDK.LivenessResult) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class ColorUtil {
+  public class func toUIColor(r: CoreFoundation.CGFloat, g: CoreFoundation.CGFloat, b: CoreFoundation.CGFloat, a: CoreFoundation.CGFloat) -> UIKit.UIColor
+  @objc deinit
+}
+public struct OrangeClearStyle : AbleIDSDK.StyleProperty {
+  public var progressSize: CoreFoundation.CGFloat
+  public var arcLineWidth: CoreFoundation.CGFloat
+  public var startArcColor: UIKit.UIColor
+  public var endArcColor: UIKit.UIColor
+  public var baseLineWidth: CoreFoundation.CGFloat?
+  public var baseArcColor: UIKit.UIColor?
+  public var ratioLabelFont: UIKit.UIFont?
+  public var ratioLabelFontColor: UIKit.UIColor?
+  public var messageLabelFont: UIKit.UIFont?
+  public var messageLabelFontColor: UIKit.UIColor?
+  public var backgroundStyle: AbleIDSDK.BackgroundStyles
+  public var dismissTimeInterval: Swift.Double?
+  public init()
+}
+public class GradientCircularProgress {
+  public var isAvailable: Swift.Bool
+  public init()
+  @objc deinit
+}
+extension AbleIDSDK.GradientCircularProgress {
+  public func updateMessage(message: Swift.String)
+  public func updateRatio(_ ratio: CoreFoundation.CGFloat)
+}
+extension AbleIDSDK.GradientCircularProgress {
+  public func showAtRatio(display: Swift.Bool = true, style: any AbleIDSDK.StyleProperty = Style())
+  public func show(style: any AbleIDSDK.StyleProperty = Style())
+  public func show(message: Swift.String, style: any AbleIDSDK.StyleProperty = Style())
+  public func dismiss()
+  public func dismiss(_ completionHandler: @escaping () -> Swift.Void)
+}
+extension AbleIDSDK.GradientCircularProgress {
+  public func showAtRatio(frame: CoreFoundation.CGRect, display: Swift.Bool = true, style: any AbleIDSDK.StyleProperty = Style()) -> UIKit.UIView?
+  public func show(frame: CoreFoundation.CGRect, style: any AbleIDSDK.StyleProperty = Style()) -> UIKit.UIView?
+  public func show(frame: CoreFoundation.CGRect, message: Swift.String, style: any AbleIDSDK.StyleProperty = Style()) -> UIKit.UIView?
+  public func dismiss(progress view: UIKit.UIView)
+  public func dismiss(progress view: UIKit.UIView, completionHandler: @escaping () -> Swift.Void)
+}
+@_hasMissingDesignatedInitializers final public class Shimmer {
+  public enum Direction {
+    case right
+    case left
+    case up
+    case down
+    public static func == (a: AbleIDSDK.Shimmer.Direction, b: AbleIDSDK.Shimmer.Direction) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  @objc deinit
+}
+extension AbleIDSDK.BackgroundStyles : Swift.Equatable {}
+extension AbleIDSDK.BackgroundStyles : Swift.Hashable {}
+extension AbleIDSDK.BackgroundStyles : Swift.RawRepresentable {}
+extension AbleIDSDK.AbleLocale : Swift.Equatable {}
+extension AbleIDSDK.AbleLocale : Swift.Hashable {}
+extension AbleIDSDK.AbleIdLivenessError : Swift.Equatable {}
+extension AbleIDSDK.AbleIdLivenessError : Swift.Hashable {}
+extension AbleIDSDK.Shimmer.Direction : Swift.Equatable {}
+extension AbleIDSDK.Shimmer.Direction : Swift.Hashable {}
