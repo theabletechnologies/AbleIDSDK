@@ -20,7 +20,7 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 ### AbleIDSDK 101
 
 1. The simplest use-case is creating Transaction structure with transaction id. 
-2. Then callin startLiveness method through service sharing your presented UIViewController to the sdk with transaction and your preffered locale.
+2. Then calling startLiveness method through AbleID.service and sharing your presented UIViewController with transaction and your preffered locale.
 
 ```swift
 import AbleIDSDK
@@ -33,7 +33,7 @@ AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russ
     }
 }
 ```
-3. Then in the end all sdk controllers will close and complete with the following result in closure. 
+3. Then in the end, sdk navigation closes and completes with the following result in a closure. 
 
 public typealias LivenessResult = Result<AbleIDSDK.AbleIdLivenessResponse, AbleIDSDK.AbleIdLivenessError>
 
