@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/JasurSalimov/AbleIDSDK/images/logo.png" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
+<img src="https://github.com//JasurSalimov/AbleIDSDK/images/logo.png?raw=true" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
 </p>
 
 
@@ -17,7 +17,7 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 
 - [x] Facial recognition with Active Liveness Detection technology.
 
-### Kingfisher 101
+### AbleIDSDK 101
 
 1. The simplest use-case is creating Transaction structure with transaction id. 
 2. Then callin startLiveness method through service sharing your presented UIViewController to the sdk with transaction and your preffered locale.
@@ -56,8 +56,8 @@ end
 #### Pre-built Framework
 
 1. Open the release page, download the latest version of Kingfisher from the assets section. 
-2. Drag the `Kingfisher.xcframework` into your project and add it to the target (usually the app target).
-3. Select your target, in the "General" Tab, find the "Frameworks, Libraries, and Embedded Content" section, set the `Embed Without Signing` to Kingfisher.
+2. Drag the `AbleIDSDK.xcframework` into your project and add it to the target (usually the app target).
+3. Select your target, in the "General" Tab, find the "Frameworks, Libraries, and Embedded Content" section, set the `Embed Without Signing` to AbleIDSDK.
 
 ## Author
 
