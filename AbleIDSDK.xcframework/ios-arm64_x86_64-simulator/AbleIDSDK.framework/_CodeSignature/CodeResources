@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		w6TUNf9VgptqPD62pQuvk8Ph6lA=
+		61hLZErmqe3PCDnRnwiXSsFiwhM=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		w6TUNf9VgptqPD62pQuvk8Ph6lA=
+		61hLZErmqe3PCDnRnwiXSsFiwhM=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTfh7MNkWIKLerSC/5k7EGaVCmabbwJI+r+0nT3rSrw=
+			rjf/MFuLSAmBbLHd+nPR1psitg7HdjA/FeetGM8/itA=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTfh7MNkWIKLerSC/5k7EGaVCmabbwJI+r+0nT3rSrw=
+			rjf/MFuLSAmBbLHd+nPR1psitg7HdjA/FeetGM8/itA=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
