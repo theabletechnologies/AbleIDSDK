@@ -25,7 +25,7 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 ```swift
 import AbleIDSDK
 
-let transaction: Transaction = .init(id: transactionId)
+let transaction: Transaction = .init(attemptId: attemptId)
 AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russian) { result in
     switch(result){
     case .success(let response):
