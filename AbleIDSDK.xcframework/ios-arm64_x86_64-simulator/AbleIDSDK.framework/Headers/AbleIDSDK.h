@@ -13,6 +13,5 @@ FOUNDATION_EXPORT double AbleIDSDKVersionNumber;
 //! Project version string for AbleIDSDK.
 FOUNDATION_EXPORT const unsigned char AbleIDSDKVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <AbleIDSDK/PublicHeader.h>
 
 
