@@ -59,10 +59,10 @@ public typealias LivenessResult = Result<AbleIDSDK.AbleIdLivenessResponse, AbleI
 
 Able ID SDK supports multiple languages. You can specify the desired language using the **AbleLocale** enum, which includes:
 
-  **.russian**
-  **.english**
-  **.uzbek**
-  **.preferred** (uses the device's preferred language)
+  **.russian**<br/>
+  **.english**<br/>
+  **.uzbek**<br/>
+  **.preferred** (uses the device's preferred language)<br/>
 
 ```swift
 
