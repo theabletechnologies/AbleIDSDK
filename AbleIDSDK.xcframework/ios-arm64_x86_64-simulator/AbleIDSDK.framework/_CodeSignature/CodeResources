@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+hWlC+JJTh5AIaU39S8ZHV2GI/g=
+		4sP2p0DL6m8OQBCMlba0Pkg9Zho=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SISyvjFEdfiBiF5/CPRuF6ao6R8=
+		ziCvYoYTey1+qGa6lMWeHxCrBHI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,7 +106,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VuY+uubzfv5gtK70E7BOa3R9huc=
+			J+nRShwReVQhXkUEwgPuaF1WtI4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lj2j2647KLImcj/R/cfPzS9s9H9JxLpbaN1cUdbEuYc=
+			DYozg/XyYTcE3I5TgTYDr/dufeiPegT6pYCkE2ZS7Rc=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tu/myqSdYXw897Ei04mRzjN+oSaIWm42kSHdokApJN8=
+			G0HR5ZhHGA32xs+bBlzlt8RqKayck7dKyXydC6jSlj0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -269,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oFw4hK9OlcD2e2/YxUDhAwhcMakDbDWOB+7njPU95Uo=
+			e6IAO8ete4v/sefcxgv81HH7GHfK1crG8jrgPKk1qWg=
 			</data>
 			<key>optional</key>
 			<true/>
