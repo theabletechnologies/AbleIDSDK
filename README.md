@@ -19,20 +19,20 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 
 ### AbleIDSDK 101
 
-#####1. Import the SDK:
+#### 1. Import the SDK:
 Ensure you've integrated the Able ID SDK into your project. Then, import the necessary module:
 
 ```swift
 import AbleIDSDK
 ```
 
-#####2. Create a Transaction:
+#### 2. Create a Transaction:
 Create a Transaction object with a unique attemptId. This ID will help you track the specific liveness check attempt.
 
 ```swift
 let transaction: Transaction = .init(attemptId: "your_unique_attempt_id")
 ```
-#####3. Initiate the Liveness Check:
+#### 3. Initiate the Liveness Check:
 Call the **startLiveness** method on the **AbleID.service** object, passing the current **UIViewController**, the **Transaction** object, and the desired **locale**.
 
 ```swift
@@ -48,7 +48,7 @@ AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russ
 }
 ```
 
-#####4. Handle the Result:
+#### 4. Handle the Result:
 The **startLiveness** method completes asynchronously, returning a **LivenessResult** that indicates whether the liveness check was successful or failed.
 
 ```swift
