@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		npHVf2HI0ORdWhOw+PXFX8JA6n8=
+		jEZqysAzCy/QU1QVLKmVuVMB9c0=
 		</data>
 		<key>Headers/AbleIDSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3RCT6Lr7kmSoYcMxd3aB1MdCyFs=
+		GaDW1BrYnyMsGWC75CJkHFBd5Ok=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qwrLMlNUHbp1sjOoTCCPuaFJNH0=
+		BcMSJHQiUO+NN7gV584D81/nWRg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aiL02Yomne1vikbp+GAdERjVtXI=
+			unOcvB/AhHbZUvK/HKdyi4JTcBc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uEG8gn5TkEziuinHhSvmSKLx994=
+			EpXKOwp+S+sZmVAe9Hdoq1JsIRc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2UdG4D0h7XUD7HyHFb/fhQ2dBw8=
+			VuY+uubzfv5gtK70E7BOa3R9huc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			436dY/FH7a4YPjmaTg5MmT+mqB5V8HllI9rDdeR8TvY=
+			Gp08sUKWD/cjzQ0WD/l7fdh5YnxIEk5kzYP5291OVz4=
 			</data>
 		</dict>
 		<key>Headers/AbleIDSDK.h</key>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z18XzCoaXYs9sP8cfJvPGc2SOc+2kLTYg1tW3zp0e6o=
+			HMZGdP9tBN6PJkHNEAsCx3vq6kenNVRBAzrEC6W8aUU=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fdy7vDKf5qKMnsoqw6hS27fUp/Fe8tsGOFTQTYPzfO8=
+			OOTrbozTYT2D6vYPfvIlCUbQFNUKZrpRBPYtNkeJXvY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -196,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/C4uQOqDHXb4zbd2MHK/3ySE67WaJK2kcUmJKZppwB8=
+			6sw2dJniuWem/1I0G6GYrLbgty0Zin7oj1JMaAAlyjk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zgs0eB9BMVwr1o+OZ5QHVFCo9TIs4JIF7QNRn7x1d8Q=
+			MO0iyLjuIou2GeTlmf0BziV9G1tIYsrAbb45lTfkQjA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+diZgzPqtWvlxrs9DaUmYJqmmuexBONUjQl3yGWHY2Y=
+			oFw4hK9OlcD2e2/YxUDhAwhcMakDbDWOB+7njPU95Uo=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -19,23 +19,56 @@ Able ID SDK offers robust facial recognition, safeguarding against fraudulent at
 
 ### AbleIDSDK 101
 
-1. The simplest use-case is creating Transaction structure with transaction id. 
-2. Then calling startLiveness method through AbleID.service and sharing your presented UIViewController with transaction and your preffered locale.
+#####1. Import the SDK:
+Ensure you've integrated the Able ID SDK into your project. Then, import the necessary module:
 
 ```swift
 import AbleIDSDK
+```
 
-let transaction: Transaction = .init(attemptId: attemptId)
+#####2. Create a Transaction:
+Create a Transaction object with a unique attemptId. This ID will help you track the specific liveness check attempt.
+
+```swift
+let transaction: Transaction = .init(attemptId: "your_unique_attempt_id")
+```
+#####3. Initiate the Liveness Check:
+Call the **startLiveness** method on the **AbleID.service** object, passing the current **UIViewController**, the **Transaction** object, and the desired **locale**.
+
+```swift
 AbleID.service.startLiveness(from: self, transaction: transaction, locale: .russian) { result in
-    switch(result){
+    switch result {
     case .success(let response):
+        // Handle successful liveness check
+        print(response)
     case .failure(let error):
+        // Handle errors
+        print(error)
     }
 }
 ```
-3. Then in the end, sdk navigation closes and completes with the following result in a closure. 
 
+#####4. Handle the Result:
+The **startLiveness** method completes asynchronously, returning a **LivenessResult** that indicates whether the liveness check was successful or failed.
+
+```swift
 public typealias LivenessResult = Result<AbleIDSDK.AbleIdLivenessResponse, AbleIDSDK.AbleIdLivenessError>
+```
+
+### AbleIDSDK - Localization
+
+Able ID SDK supports multiple languages. You can specify the desired language using the **AbleLocale** enum, which includes:
+
+  **.russian**
+  **.english**
+  **.uzbek**
+  **.preferred** (uses the device's preferred language)
+
+```swift
+
+AbleID.service.startLiveness(from: UIViewController, transaction: Transaction, locale: AbleLocale)
+
+```
 
 ## Requirements
 iOS 13 & Swift 5.0

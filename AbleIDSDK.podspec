@@ -10,14 +10,14 @@
 Pod::Spec.new do |s|
 
   s.name         = 'AbleIDSDK'
-  s.version      = '0.0.5'
+  s.version      = '0.0.6'
   s.summary      = 'The AbleIDSDK is solely developed to provide face liveness detection check.'
   s.description  = "The AbleIDSDK is solely developed to provide face liveness detection check and it should be used only with the permission of the The Able Technologies."
   s.homepage     = "https://github.com/JasurSalimov"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author        = { 'Jasur Salimov' => 'jasurtsalimov@gmail.com' }
 
-  s.source       = { :http => 'https://www.dropbox.com/scl/fi/17060sagtfh4kzy68a59s/AbleIDSDK.zip?rlkey=2kii2ra39s713xigxquytqdu3&st=lkbdlvwv&dl=1' }
+  s.source       = { :http => 'https://www.dropbox.com/scl/fi/a33fu8076jkgenhsdp385/AbleIDSDK.zip?rlkey=7v5o5b5aqfsytcbomn0wpl5uk&st=lcms3vdx&dl=1' }
   s.ios.deployment_target = '13.0'
   s.swift_versions = '5.0'
   s.frameworks = 'UIKit'
