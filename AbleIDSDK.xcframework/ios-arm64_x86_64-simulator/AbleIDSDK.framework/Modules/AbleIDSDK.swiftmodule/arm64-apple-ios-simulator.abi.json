@@ -3223,49 +3223,49 @@
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "StringLiteral",
-      "offset": 534,
+      "offset": 582,
       "length": 28,
       "value": "\"initial.screen.description\""
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 748,
+      "offset": 796,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "FloatLiteral",
-      "offset": 817,
+      "offset": 865,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2817,
+      "offset": 2865,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 3029,
+      "offset": 3077,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3098,
+      "offset": 3146,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "FloatLiteral",
-      "offset": 3158,
+      "offset": 3206,
       "length": 4,
       "value": "14.0"
     },
