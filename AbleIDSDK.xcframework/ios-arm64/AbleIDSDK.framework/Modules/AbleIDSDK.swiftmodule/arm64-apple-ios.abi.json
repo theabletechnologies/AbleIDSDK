@@ -2641,43 +2641,78 @@
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 615,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 624,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 635,
+      "length": 3,
+      "value": "150"
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 647,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 633,
+      "offset": 707,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 723,
+      "offset": 795,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 847,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
-      "offset": 811,
+      "offset": 935,
       "length": 23,
       "value": "\"videoInstructionsCell\""
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
-      "offset": 917,
+      "offset": 1041,
       "length": 22,
       "value": "\"textInstructionsCell\""
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1118,
+      "offset": 1242,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
-      "offset": 1157,
+      "offset": 1281,
       "length": 29,
       "value": "\"initial.screen.button.title\""
     },
