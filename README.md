@@ -27,10 +27,10 @@ import AbleIDSDK
 ```
 
 #### 2. Create a Transaction:
-Create a Transaction object with a unique attemptId. This ID will help you track the specific liveness check attempt.
+Create a Transaction object with a unique attemptId and livenessEndPoint. The ID will help you track the specific liveness check attempt. The endpoint (URL) for the liveness check API. You might switch this out for a production endpoint or a testing endpoint as necessary.
 
 ```swift
-let transaction: Transaction = .init(attemptId: "your_unique_attempt_id")
+let transaction: Transaction = .init(attemptId: "your_unique_attempt_id", baseUrl: "your_liveness_end_point")
 ```
 #### 3. Initiate the Liveness Check:
 Call the **startLiveness** method on the **AbleID.service** object, passing the current **UIViewController**, the **Transaction** object, and the desired **locale**.

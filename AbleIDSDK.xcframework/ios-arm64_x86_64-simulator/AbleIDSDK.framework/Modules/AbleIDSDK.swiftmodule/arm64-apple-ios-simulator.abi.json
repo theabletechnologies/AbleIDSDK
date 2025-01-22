@@ -327,7 +327,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(attemptId:)",
+            "printedName": "init(attemptId:baseUrl:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -340,11 +340,17 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9AbleIDSDK11TransactionV9attemptIdACSS_tcfc",
-            "mangledName": "$s9AbleIDSDK11TransactionV9attemptIdACSS_tcfc",
+            "usr": "s:9AbleIDSDK11TransactionV9attemptId7baseUrlACSS_SStcfc",
+            "mangledName": "$s9AbleIDSDK11TransactionV9attemptId7baseUrlACSS_SStcfc",
             "moduleName": "AbleIDSDK",
             "declAttributes": [
               "AccessControl"
@@ -1828,1771 +1834,1771 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 196,
       "length": 3,
       "value": "260"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 262,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 322,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 330,
       "length": 5,
       "value": "122.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 340,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 350,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 459,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 508,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 520,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 531,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 543,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 634,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueDarkStyle.swift",
       "kind": "FloatLiteral",
       "offset": 786,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 1440,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1442,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1456,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1460,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1473,
       "length": 4,
       "value": "43.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1478,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1492,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1556,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1568,
       "length": 5,
       "value": "163.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1574,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1587,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1593,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1607,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1666,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1672,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1686,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1692,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1705,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1711,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1725,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1793,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1805,
       "length": 5,
       "value": "163.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1811,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1824,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1830,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1844,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1900,
       "length": 5,
       "value": "226.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1906,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1920,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1926,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1939,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1944,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1958,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 2636,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Configurations\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3406,
       "length": 15554,
       "value": "\"iVBORw0KGgoAAAANSUhEUgAAAyAAAABiCAYAAACoCLeSAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAC0kSURBVHgB7Z0JlBzVlaZvZm1aq7TvK2CQBEYSxjQGGyGBsbEBSW5s99AYJGMbe+w24GXaPu4ZwH08NNP2CHx6PF5HwmMPbttzJCHMLiQMaAGBJBaxCCgJgZbSUouqSktV5ev4I+JFvngVmRWZtagy8\/984mRWZsTbIpHvH\/fedxPKQQghhBBCCCGkD0gKIYQQQgghhPQRFCCEEEIIIYSQPoMChBBCCCGEENJnUIAQQgghhBBC+gwKEEIIIYQQQkifQQFCCCGEEEII6TMoQAghhBBCCCF9RrkQQkqep448Jw8deEaqygbJpSPPlwXO0V2OtrfLP+7YJs\/XN0qHSkpKlbkH3ne475PB5x3ifX7T1JHyw5ljhRBCCCHFCz0ghJQ4jx1aL6sOPCrH1TE50tYgf973pDx4YIN0l5++s0O2NhyWhCj3Hxq8inMkEhGHeMevd9XLL52DEEIIIcULBQghJcwTh9fJ444ASfoCIOkLhAfrNsiauo3SHfafOOa0JRnFhj7E\/DuRkh1NJ4QQQgghxQsFCCElytrDa2XtobWGMJC0QIAIcbwgDxzIX4S47QUiI2UJD\/23BKJHj0Hc8wkhhBBSrFCAEFKCrDv8uKw78kTYI+F4H8QXBfqzNXWbZPWBTZIfpuiwPCG6jyivSIIChBBCCClmKEAIKTHWH3lUnqp\/rFMolOuNSPjeCUMkrDmwWVbt3yy5or0ZaCuZUNFixA7BoveDEEIIKXooQAgpIZ6uf9g5Hg17H+Bx0K\/u537CeCIVCIQHXBHyXE59mcJDzBwTy9uRTJieD4oQQgghpNihACGkRHi24SF5puHhtOAwhEAyIj\/D3bnK8FSsckTIowdfit1fKKdEOieii\/0dw68IIYSQkoB1QAgpAZraD8uGhr84Rn4yEBfwNqgIj4QrHJT\/PuWJEwVPhaMN4AX5xOhzY\/aaCosLlc4tgdfD6cLtXzqFgBWeCLn11lulsbFRusvy5cvd1127dsn69euDzxctWiTDhg2TYmbx4sXS0NAg06ZNC9YhLitWrAjeX3rppW4bPcWqVavccQG0i\/YJIYR0DwoQQkqAE6lWCSeYp9x3aS+F93nSFwXuZ74IEZXyz1RyrOO4tHackEFlVV32qUO53Ffl9+n8kVB+34Ew0SLF+VwlCtILsnr1alc0dBdTgCxdujT4HEZvMQsQCAgY+pobb7wxJ0PfXCu01ZMC5N577w3E4JIlSyhACCGkB2AIFiElwOjKyTK2clKnmhw6zyMR6QnpHD51xejZscQHaGk\/YYVghXe+SntIJLQlL7fhLT3uu+++0N8QdIQQQooXekAIKREWjblZ\/rD\/HrfaOdC5H6bHI8jLSJkixPNgXDx8plw38WOx+tpwZK\/UtjYGIV+BRyXkhUnnn6hQ\/4XHwoULM4Zg4em59o7Ai4FwKpLGDjcD8GLcfvvtRR92RgghpQoFCCElQnX5SPn8uFvl\/v0\/dURIvR9W5e94hTArxxWRVGFBokXCRcNnyY2Trgjaer15r9SdPOrJCeWlrYOU8\/6dlkZ59OBuESOp3ZMh1u5XIunPfMGD\/qvLC88xe88992T8DuFBOkcBBnWu+Q3Fzp133tnpM+RcwAuCUCxCCCHFBwUIISVEjSNC\/tO4W+T\/7fup6wlJeyHSCeFi5YBcNOxsuX7ilUEb2A1r5b4XpAPCQ5VJhzhHKum8TzqflbkH3rveDzfnQzzPhlLp7X0VBIuXW2J6SCYNrJSlU8cIyQyMcxzaqzJnzpwe8xSgzd5oNxu290MD0dYTAkSvlU4kx5wwt77AvFfoF7kp9OoQQggFCCElR035CLlu\/Dfld\/v+TY6cbLBCrRxvhSMalC8aLqz5oFw34dPBtUhAf2D\/ZufcMs+DAnWRMnbPEjO8ygvdWjLlLBlTNTjtLVFW6UHlbwLsfH7ZmBGOB6RMSGd0Yvq2bdsCY1qjd2dC2FKuCdhI\/kaidU+3Gwc7eX\/ZsmVy2223ue8hTDCmfMUCBAxyS6IETm\/OC2uoE9ej+sZ8sGvavHnzemVNCSGkEGASOiElCETI9eO\/IcMrhofqfyQTaQHxN8POdcTH1aHrIEDMWh6dan1IOKl9dvUouWHyDPnkmMly5ZhJcuXYifLpcRPlqnET5Opx4+WaceNk4fgxsmj8aFk8YTTFRwZgiM+dO9c1aG2RAGDEw+CeP39+aDepOG1i+9uu2p0+fXpkqFR3MbfP1Ya56SHINxkdQg1HJu9Kb80Lggdt3nHHHRn7xrpjNy3cKzv5nhBCSgUKEEJKFIiQL0z4ugwoGxAIBp2E\/uGa2fJ34xd2ukZ7ONzwKTePI+UXMQTpGh86rGrcgEHSFzS0FffOWTCmTYEAYx1P8O0tYU0vSTbwPQxg+zyzXTtUCEa1ud1td8FYTbF0yy23uK8QIRrk1kQJo2xgnKawAZiX3kK3t+YFIYM+zPHqcK+oNcX8cX5vCDtCCOnvUIAQUsJAhFxYfYknPPw8jBGVw+Rz4xdnvMbcOjfIF0mkPOGRsLfx7V1eamyTcQ8dlNF\/OSSnPdogu1pTUoxooxZGen19vWzdulXWrVvnHsq5ZwhdMs\/VYUxRwPCF+DBzIhCKZLeLv\/FqhkDBsM\/Wdi7YT\/+1mDLzPjDGTJ6ETJghXea8kPyv54X3ZvgT5oWwqXzB9RAyGrS9cuVKqa2t7bSmdt\/ZvCWEEFKsUIAQUuJUGR4QCIdZQ2ZmPd\/zfKhOoVjaAyJGW13V9Dja3i73v\/ee\/HzXbtl7\/LjkwsuNJ+XKDYelsa3D7e\/d1g5Z8PTRohUhMKbhEYhKYobXwBQhmfIPAJ64m5W9YRjDCI5qF6IABrQpCjCGnjCYTS8FPAHaKLerjecjDDAXjDvTvNAf5m0LgVy9LQCCx\/RiQLCh70zV66P6tj1chBBS7FCAEFLCHE8dky2N69Nb4zrH1sYXpKE9szEUhGD5u2dFFhs0jkxAfHxt+wvy47d2yi9qd8lnn9smrx9tkTi83HRSPr2xTpqcNsxK7rsd8bHgr8UnQmCQm0\/Yo4iTP6FzHzQQNXGSvG3h091CgXbyub3blVkrJVN+SjbizAsCwNwSWSeP54pZ5wXA89HVTld231G1UAghpJihACGkRDmRapX7998rTR2HQ0b8CdUqv9rzK6lvizD6rArpYoRcmbkf6arn0X03O8LhGy89Lzubm4K2mjvaZOnWVxwR0pp13C83nZCFG\/c64qPDED6poLp6bRGKkLjb0ZqGu2kUa8ywJxjBeBofBxjUZm6GnWORK+b1tscDYL6mEZ+LMEB75lizYefR5DMvc01NT06ufTMhnRBSSnAbXkJKEIiPfz+wTA6e3OtvqevtYCV+ecKGtnr51Xu\/kS9PukmGVxhPc1U4ByQoXGgWGDQ+iwrBam5vk394ebPsbGl2zi8LbdmL75a8+KqsOO9smTG0cwL7K03H5TOb3nfER0KCKuvWgacqu3wR8uQlQ2XaoMJ\/zhJ3K1rTaI9KRDefsuOJfy7J16ag0bUt8tlG1k4+t8UHwDxgzOsCj3iFVyMOUe1lA2JHr4uuF5JLrQ5zTfUmAHExPTtdbRxACCHFBAUIIQVAS+pNeeP4D6Wx462g0F+HSnqFAP0CgO5nUuZ+NiAxVuYN+74ML5\/eqS2Ijz\/X\/ascOrnPM+KDooPiFwv0CgTWnzwiv9jzf+Qrk78oI3wRMqhsgAwur5Kj7Sd9qaLCIVgq\/PeQsopQ3xAYt72yQd52xEfSER\/Kr8CevtY754YXd8hvz5sVEiGvNh2Ta5\/b44gPCUQTSFgCyC2oqBJFJULiGsRdnWcavHjfHU9GvgLEDjXKJCwWLlwYCBCdjB5HXOQ6Jlvc5SJAbC9Td8KoojxWhBBSrFCAENLPaVdH5bUT35LW1IH0U\/9Euno5DHfU7\/BqB3qG+DF1UB4\/crssGvVzqUymjXiIj1UH75bDJ9932ki6IkKLBvHFQLCdrnPAE\/KLPcvl5slLXREysKxKPjXmYvnTvnVpz4ey64B4gmJs1WC5ZtyMoG8Ii++8+rQjPo7680ikhYRfADHljwEhWl944TX5\/plTZcKAAbKpvkV+XXvEET4S9nwkjGrq\/lj8lXD7rC0yT0h36Q+JzmbCNgz9uB4DXNcbAoQQQkjfQwFCSD+nQ47KSfW+5zGwDO0gz0J7EgIDPOVcc1TaVLNUSlqAvNH6tBxq2+3Y52VuEfNw6FI4nEq3X++IkH\/ft0q+NmWJ28aCkR+S2UM\/IHuOH5SW9hOdgqDgfYBQOXvoOBlcVhn0\/ZO3n5e3Wxt84SNpb4ny8kc6lK4jguLqyhUh33t1l1tpRHt4PI9NWnAklSfCAjHmHyrheUHQDzwh8x0RsvWyahlW0dsbA\/dvzCf7yJPQtTe621Zc7ITtXLbZ1cnoXfWbqyehO6LMHgsS0POt3E4IIaUEBQghBYApCGyhYD79hyGvdA5GhK19uO1d0cnmttdCTM9K4FVRrlB5u3VXqJ2RldXuEZcWx\/uxqf493+Nh1RBRKjQmJamQyBClupx\/OhRMvO9T4ewT7I513+6TcssZVVLKwDjWuQZ47WtvQXcTrZGM3lUuCIRK3HwRsH379uA9BEUua4LzcWgRs3v37tBGAIQQQqKhACGkAHANa19chHIuJCwmxPQqSOcE8AlVM+T11mesayQkPBIhYeAJlAtq5kq3cNobUl4uTe2ptLdGOueMhMcg\/jxM74aI9vCYIsUVUSphiJGU005Z0D0+LfZq6XEwn85DgOSb76AN71ywtwCOquQeBRLWtWiKk4ye67x0nokeU67gGp1Uj9dcvErdXVNCCClUKEAIKQCC3IpE2iOQrseRCBvwknkHqrMGfUyOth+SzU2r09f4wiYoJGiKD+f9xKpxcs3YK6U7IBTr7yeeIz\/fvT3ozx6rmUieUJ6gqK4ol\/OH1chjdU2+WDHmq8z5i99Gys8Q8f7WuSCnDUrKjVMrpdTBjk+64J7eBQthQ10BQ3n69PSGBqhhEXcLX01U8nkcg3\/evHlu5XYQJxldV4I362xkAnklpghA4nuuQHBoAYKxoc04Hhh4c8ztglG8kOFbhJBSgVmZhPRzXC9HwjLSRYJwpKAyuSseUukK5YnoJ\/7nVy+WC6oXBfkWdh0P3SaEyIQB4+XLk78kA5IDpLssGn+mXD9pliWewsLDzGvBDlhPXDxHfjb7DLn77KmhWiWudySoyO55h5KJ9Od6PgDJ52uZhO5i1\/OA4bx48eKseRPwKGgBAKLqdsTBTD7PpQ2cZ3oGzHYyAU9LV+dBAJjFHXOpi2KPz5wL2uyqb4SimfcB\/VJ8EEJKCf4\/MiH9nrBQCEKOrIJ\/OozKTCrPxIcdAXJBzTV+OFS0CBhfNV6+OPErPSI+NNdPOluunzwrLRgMAaG9MXidMWSQLD\/vHKku95y0fzthpPyrFiFaeOitg936Jan0uhivEB3cASsMntibxi5ECAQGjGYdvqQrc8OTMHfu3JBAWbZsWc65I3byeS45GsA01uNWRocQgNcGxj7mhf51GBjma7YJgbNu3TrJF3hbTJFk963XVPdtCh2sZa7rQQghhQ5DsAgpCPykcD9fI9hFyvQmmDkR7nmSsRI5gBcEzyA2NKxJh3b54VfjqibIFyZ8tUfFh+YLjhcEI\/7tu2+mw62MMLKzhgyWX8yZLUPLw\/88\/e3EEe51337lvU55Kt7amDkxjmE3OCmPf5TiwwaGMsKuYAhrUYBXGM2mRyDqOoiPfJKs7eTzXD0oCMMyyZaMDuNe55pgXl15NTAvCIjuJOTjWggY05sUp299HbcOJoSUGvx\/ZkIKADNkKRkKWzI8GMqv5aE\/l5RIF3nXF1RfIxfWXB1KBvfEx9cd8TFQeosbHBFyw+QZaS+O79k4c+gQR3yc10l8aK51RMhPzplkCK+010aM0DOIjic+WkPxkQEYvLW1tTlVF4ehnE+Ikp18jjZyNbjtMCczcTzqXAisOH3gXORe9MTOVfAq5bJG8EShb4oPQkgpQg8IIQWAm1yd8DapDeWCKDs0Kx2a5LlLum77wpprpLpslOw5vtMx\/EfJedULelV8aCBAMJvljicEAz2vZoTcNSuz+NBc63pCknLbS++ndwYzEvCnDiqThy4a4b72B8yn93F3ObLzEeJeN3v27OC6ONfA44HzEda0evVqVyzo8CZcDwMdidn55Hxo0J45FyTC5wMMdtNYNyuxm+1PnTrVHS9EBYSPPS8IBVwXd15oR\/dje2JscB68KRB28PrYoWfoG\/cI4V\/c8YoQUso4tori3pSE9GNQhPDVk5dLh0pKyi\/Ih8J83t\/6ffpzs3DfJ4ffJ4OSY6Q\/gwrpOMYNGJTTdX98v0FufWlfaD0mDayUBz8yTqYM4rMVQgghpL\/C+ARCCoBQ3Y6Eks4F+HT4UUrMQn9vHVspbapF+jNDyityFh\/gcxOHybJzJwRhV1Md0UHxQQghhPR\/6AEhpADY0\/49Odi+2vFulAWekA6VDHs+rNcOiTgvlQy1MSg5Vj4x8lYZVTFF+gN\/fH+XvNDYIE3tHZLCWFXCHS\/GnhLv7wkDBsgPzpos1eVeiNWeY23S2JZyhEeF8xmfqRBCCCH9HQoQQgqE5tRzckLtFTcjRBk+EZV+bUq9LftObpDmjrpQyFa7\/5oWJPp9mVQkhsjfj\/uJVCVz90L0JH\/aWys\/fec1I7zMHmt6zJeNHi4\/n3OaEEIIIaTwYKwCIQXCkOQFMqSLcyY4x9TKa+WpppsdY701CMUKkrWDYn7psK4TqRbnaD3lAuTZI\/ukc0V0FQo\/059vPnJUCCGEEFKYMF6BkCJjYHKcjK+8KKhobtb4EL9In7mVr1fk8NRjiqKQCAnmIUGRweaOdiGEEEJIYUIBQkgRYiarB0JEJJy8Hqp+3h\/Q40zXNnEru\/vCIxnMyTuXEEIIIYUJBQghRUpnsZEyvAlGAUAULOwHLhBdwRzjSkq4+KIWHcnQDmCEEEIIKUQoQAgpQjxD3hMaCLFKGlXCE7Ygkf5BMKaEITyCKukpKxyLAoSQU822bdtk\/vz5MnfuXLfwIiGExIVJ6IQUI4l0ZfC0B0TCYVcqLUj6RUhTwhqfW9Ud+SpeBXgzN6S\/PTmBEWZWvM6X2tpaKVRQafy2224L\/l62bFnJV\/tGxfPGxkb3PSqvo6p6MbF48eLgd49q9JgjK7wTQuJAAUJIEaJDlkK7SQW7Svk5Fb4IUf0knCm885W4OR8YWWg3LMOD09TeLtXl\/eOfMBhhPSFAChkIkBUrVgR\/33777SVvjK5evTr4XUybNq3oBAjuuQnmOmfOHCGEkK5gCBYhxYjh3Uh22k1KhfIqEO7UHwjvfJUKQq8kFHaVDh9btfeQEEJOHRCZEFYQmnhP8UEIiQs9IIQUIRMrr5S9bY+Icr0cyKdI+Nvvdg5nqi4fLUPLRsup5vTBw2Rb02HfWyOeiBIJ1TBxw8qUJ0Tu2rlbNtUflQuG1zjjL\/elVNL35yTdwoyYeU15mXywukKmDOq9f+4QamM\/DdasWrXKjZUHMNRwLiHFAH7L\/D0TQvKBAoSQIqA19Ya0yVGpSZ7v\/j28fK6cM\/D78t7JR1yj3KuCngy\/dwz0YeWny4xBV0l\/4PpJs6S5vU0eqduTFkvwfKRUeEcvQ4isPVgvj9U1WVXevarv5uukgZXy7LyxUlPRO07fW265JeN3CEsxBQieFBNCCCGlDAUIIQVMhzoqO0\/eIg0dL7iG9oiyBfKBqtulPDFUJjheEByFwpDyCvnOGee7RybeaG6WL219SRratFfHzxVBArvOb7FqnuDYc6xdfrenVb5+Wle15Ps38LKYggYgBObSSy+V7oK2169fL7t373bfT506tcfaxnjNMUOIIVwH7cfBzK\/BtTq3RI9Ze5\/0d90dM9rDeNEv1gNtYj1yGXN30Wumk9j1\/eiJMCf9G9L3GvObPXt2aN3wuenVi5o31t7Mccll3aPuXXfmh3Ho368Gc+rLe0YIyQFFCClI2lONasfxxer51rPVptYPqmdb5qinm89TW1quU22pppzaOtHRoo6216lC4FMbN6tz1\/5Vnb32WTXj8Y3qzMefU6c\/ukVNe2SrmvLIS2riw6+o8Q+9psb85Q016sG31PA176iaB3apH73eoE4FS5Ys0duMKccQUvmwdetWdeuttyrHSAvasg\/0U1tbq3Jl3bp1yjEcM7aLPuO0je\/N6\/B3V207xqFasWJFl2PEuulr7rjjDrftRYsWZWwX5+O8nl4LHPg+zpijxt0VmFdX9xlt3nPPPXnd6+XLl8e+11gL87sozN822u2JMej51dfXx2ov7j3LZ70IIb0HBQghBUi7alRvnrxGvXj8LLXl2Cy1ufUctbFltnqmea566uj56vmW62OLkNda1qgV+65Vv9n7efXY4Z+4YqSvePLgTnXXm+vUr3dvUQeON8e65lMbN6pzn\/yrOmftM2rmExAgm9UZj21Rpz36opr6yHY16eGX1YSHdqixf3ndESBvqhFr3lbD1uxS\/71ABQgM12zGlX3ENbxhkHVluNnGKQzDbO3Z4+ipMZuGPNbT\/DvbAYETx5DFOdkETSZDuSujNhcBgrXNJjyi+l+5cqWKQ673Gm1DKEgPCpB8xgDhnY1cfmNY267aI4T0HQzBIqTASEmT7Gq\/To7LG5Lw08pRbNBNLve3q23peEO2tn5d5g76X244ViZebrlftjf\/KWhn9\/HnZc3hQ3LVyH+SquQg6U3+tO9F+eP72928DeRvbKh\/T+6acbmMqRqc9bp0EcVkKMwq2N0rtGWvX1HdTVwvPFBXwzFMQ58hpESHlehQIYSeaByjzA1HcQzIjO3i+6jaJQihQdsIh9EhQPoc9KWT7ePksZjjRnvYghZj1lsW22PGOdlyaTTmVr86lEuH7eh2dVgPxo9aFc5T8oztZVqLrtZZX4e2uxvic+edd7prYGKumQ69M+eGvzE3rMeNN94ouc7PvNf2\/HCuWdOlu0SNQYfK6V207N8bXlHgEOsbFdqF7+01s+eEDSDM3y\/GgFo7rFVCSD9AEUIKhg7H87Gr\/ZNqR9s09fLJ09X2Ex9wvCAz1POuF+SDakPLHMcLcp7rBXmy6W\/UpuYbHE\/I0ci2Xmn+vbq\/7mr1+wOL1G\/3f0Yt3\/dZ1wvyy\/evU3868AN1vBc9IX\/eu0V9\/oVfqmuf\/436zHPL1aLnfquu3vx7tXTrA2p\/F56QqzZuUHPWrQ\/CsGY+scn1gpzueEGmP4owLHhBEIalvSA7HS\/IO+quN+KFdPQ0+XpA7Ke7eHqMcJMookKSsnkr7CfR2UJU8CTc9jhEjcP2gOhj2bJlGcdstosn1Jm8FVEeD8fojjw\/ai0yrVvUWsBrkm2dzfup72mccWfygNj3GeuANc\/UvyP+Oq1Ftif7udxrfI75R93HKOJ6QOz7hzlkWjP794b1iBqv\/d9Vpntmr1e2\/y4IIX0H64AQUiDA87E39Vk5Ia8aSdbhZOuE+HUzRHtC3pQtLd+QdtUcauu11t\/Ja8d+n95ZSrztbvV1R9p2yQOH7pITqVbpaVbuf949dDHEdH2PlNSdaJbv7VgnB05k7reTx8P1hnReB692iO8BSRSWBwRPbU0PAp6EZ3oSDPAUeeXKlaFCd3g6HLU1MJ6Ym0\/y8fQ821N8VLjG9+ZT46VLl0ocUA090zat6M\/00mCsKNwXB8wT84h6kq3Xwkxmhochiqi1cIz5rOuMMZseINyre++9V\/LBvs9oH\/1jzTP1j\/uKc0wyeSvs+enfUaZ7rfvviY0HzDGYng+sn\/Z4RWH\/3vC7iLp\/5rxwTaYxoy\/tScIBDwgh5NRDAUJIAZCSRtmvPiMn5ZVQNXARq7hgQtKvvgHenNopz7d8MxAhrx\/7v+4RLlSYkqB4oX\/d4bbdsurgv\/SoCFl9YLOs2r856FvMsfpzOeCIkH\/csT6jCMFYk1GhVxIef\/ozMdarMDBDbWA0wZCPA4w703CLMozvu+++4D3atkO8osB5ttFtGoBRwCDsqkYEzjENx67a1MRZD9OIN3fgMjHXJ+5aABi15rjjXmeDe2GKxLjhXBBXZvgR1i1q7ex7nc\/vqLuY4gH3JJO4MsFYzd8OREymOjugq7FCkEJ44Mj3XhFCehYKEEIKgCPyTWmTl\/2n\/TCkU52rmpsVxC2B0tyxU55tvkk2Nd8mO4\/dl\/Y6GMZ\/MnRdyveEvCsrD97dIyJkzYGN8sCBTZ3Fkt+XLUK+++pTsv94537Tcw0Lj6T9mUi6qrpeowLBNBx1nHwcdN6AxjZK9danGoiKuIYmDEedE4GjK7GQLS\/BxPRUZBIKJnHXY968ecF7nUNhYm9nnMta6PPN9uOKJxPkKGj0U\/q4IF\/GHK\/tPYq613Hbz3VL3UyYOR0gTo5PpnPt+Zlzsb0shJD+D5PQCenntMseOSYPOca0V\/cCSdZu0rnyvBdKG+DKf+8b9cmEV\/Vc+Z6N46l90qLqnPdJrw3jWuiRQBQYSdwQIocdEfJ667Mye8jHJV821r8iD9ZtjE4cV+FwMp1QX3eyRX789hb58dmXhNqyPRuiIoSH9uqkEu55SdEh4IWBaRjDSM3FuDWfFNsGvf13LjUXYOzaoT\/ZyEU0abI95dbEHbMtJmCgmmPavn176PtcDW6cr5OddXu5tmHej4ULF0ouaLGpk\/JtA7w79xpgLqZAygezJgdA0ny+YD6mqMV66f8u8B0SzM0NCcy6KUw6J6T\/QQFCSD8nKdXuq2dYewX4tGcjML6VX5jP8IgklO3RSHT2DqiU26puS9COL3Q8QeOJge7a7m+2vCtiCQR4LFLKCqFCRyk9x5S81HSwU1va26GFla6KLrbnR7ftz7GQMA1xuyBcru3oQnNAF7XT9ERRu0zEFSAwFHOhp4zJ+vr6UJu5eB80uEYb+rneI1sw5Nu\/xhYcUbt65UJNTY10l67GlAv2+iJEC+1rb6HeXS1KNEFMwYMX1ytHCOl9KEAI6eckpcb533+RRvkfnjhQvgGe8l\/Np\/9KQkZ4SHgkrCRt5QuW0La1+u+ULxVSMiA5WKYPnBuMB+FYWxrXS0P7EUdAJMXNyFCuz8U9UJa8MjlQPjr8IzKiwjMWpwwcKxsbdoTHlvLFjhZP\/lgD747zOqZyYKf1cKWE8jwcmIMXjpYwBFd6zoGXJ\/Do9H9sQysfwzQTptFNug+frOdGd37LUYII3h+IC+SZZBM3OkcGgiVuHgwhpHehACGkAKiW7wqM9kb5cdrzYXpAdOiUVQtDhzONLb\/EOa6SssQQean1bmnuqJOoXbRcb4JhsA9IDJKrRn1fqstHBWP57b4fSUNbg2Pml0l7KuHW8IAQ6XBfy6RDvLoerxx9Q26b\/lUZmBwg80d+SPYcq5Nn63ekhUEi7WVJe2XS4xnriI9\/mTmv01pcMmqM\/OG9d12HjTlmLVy0dyUkzJxjysAKKQRsoxYGk5nX0R1sA9AOSypVbE9RXOLkrGTC7ssOV4qDaXR3dR9znZ8dopYPpnert3ag0ontuo4I1lHn\/Nh5PkhAxxrEqWNDCOldmIROSIFQ7XhBahwhog340K5PEg5BMj+fVvklOWfg3TK64mMyonyuXDz011JTfobrSkifayS1JzxjvsoRH1eP+oGMrJgSjOG9E2\/I0fZDrpfBDdey8jHM3a3qHZECEaK5YdKVctHwWZKQcF86pCpIoneOcZWD5e6ZC2RsRFHCm6acIZ8eO0GqK8rC85f02M2tiGvKk\/LDmWPk85OqpVDIlqvQHewwnKeeekpyAdvv6qO7+QGnGnstchUTMG5Nb5WZ9B4HO+wrHzFj5gbZ87HzUcyNDeLQE\/fXnJ+9Xj0N5g8hAnEB0Y6dr5CzBNFjjoO7YBHSP6AAIaSAgCekJvEdz1jvtOtT52TsKRVflqmVXwm1UeF4QS4c8j9lWNlpETtSeQeqoH9q5H+VERVWfL6STkJFJ6tHjQcixORGR4RcPGKW2Pkg4ooqT9CMqRoiP5p5WcaK6EPKy+WfzjpHnrjoUtkyb4G8eOk82b7gY\/LKgotkx2UXyuuXf1je+viH5J0r5squT5wrr14+U748bYQUEqbHAwZTLoYbwlL0YRu1uvq0eW5cYOyabfemMdkX2MnJmWqFZMI+P598GvM+57qm9s5PtgDSCdiaXH5HPbWrlL3GudRLwW\/X\/L3Z6LAqc8vqKKLqzXDHLEJOPRQghBQYwxwRMjzxbem0Da3l+ZhcebNzfDWyDYiQjwz9idQ4IiRp7XwF8XHFiDsc8TGt84WJTAUQJeR5MQsM2iyZ9ElXhKTzNdLtjHXExz\/PuMIVIaWMuSMSDKZMheZsYBSbXoqokBu77kYcwxtjMIsPwqiLU8+hv2PWmoi7FgDeBNMoxlrkkw9i3+e4BR5hQJtjxf2ICtMzt7LFNXF+R3HPiwPWxFxj1C6Js6Mb1gI7Zunfse29wRix65U+ct0CudDFMyHFAAUIIQXIMPmOJ0KiihA6x4SKr8nE8q9lbQMi5OLqHzsiZHrQTmVikFw+\/J9lRPm0yGs6hXiZNUQyeGSi+OKkK+S8mtOCsDHPk+IYKGddKWMqS1t8ALuIH4xdGGTZntzCaDSL08EojsoLgFFqfo5rshne2tgz+y6WGPpc1wLgKb4pvuwijblg32eEPdlrbQNjO+79sCuE43eUrX3Mbe7cuT1qoNv1StB\/Nk9I1O\/N9GAAXYtGg99+tjWz+2PeEyGnHiahE1KgQIDAfD+slom51e748m\/IuLKvx2oDImR+zf+Wd088LidUi0yr+rjz2eCs15g7Z3XaDlh\/579m4+8mXCIvNtaK8q+fNWScjKb4CIBRCYNUG1Z4jwNGJZ6c6xoUyBGxw2uyVb3Gdai4bRqaMLxhnOIpOkJ5cA76RfE3OxcABmUxeD8A5olcARi89lrAcNfrjLXAOkeFSWGdu2PQ2vcZAmP69OnuvcAYZs+e7faJ5OqomjC4Ptv9gPFuGvS6fV1UUv+Ougplyhe0jzGYNUAguvCbxSvmBzL93jIVUMTvUHtqtGjBeumtdvV\/G3Y4Wb7eKkJIz0IBQkgBMyLxLTcs6qC6V8oT1TKq7FYZmVwiuTKlKn6RQTPsKqjHIYYgCXlJMrezsX6HpLcJTsmhk0eFpNFCAYabmcuRKSZeA8MSRnU2IwsGHRJ0TcMUrzAKsyXpwugrtiRerJdeZ3MtulpnLV66WzFc32eEGpniQgvObMA4N71eUeBeo314dsz56F2jMl0DQ72rtuMCMYW1why1yMEam96fKLLNL6oOSFf3rDveKkJIz8IQLEIKnBHJb8lZ5budY1te4iMXwrkeqchdt3Tuh6c9or0gDx7YIGvqNnhhY75QOdzWJA\/XvSwkjRYKcZ6y6+1FcX6cJ\/LaMIUh19UTYRjZOLdYdxDSIiTO03G9zthdqbviQ6PvBTwFce6dvh9xBYJOxMaRbczmbyjXApFdARGCduN4z+LOD2Ijk4fEJNf\/NgghvU9CKVUY1bkIIaecl5oflacb7vfqfahk8Nph1gIR\/V1S5o+4XC4beVmojYfqnpEH6zZa16friNw89VKZN\/JMKRbwVFs\/WYch1J2aHngijq1z9ZameitXhArZOw7lgg7BQciKGa6C8BgYg3F2eEIb5hN7zDPOeNCffvKfaX3Qrn5yjrHkMx7MI47xqdciap2xHnHnle+4ge4fT\/h1\/zjQf0+FEOmQK3N+5viQN2F6KKJMhXx\/2\/qe6zUGen3j\/t5MzHtmzgkHQgrRJsOuCOlfUIAQUsK0q2apPf7\/pUXVOcZ\/whUN7oa4yt8Y1\/lM+WICVc5rW7dKa+q4LzacQzzRkEqF\/9bi4rrxX5CZQ2YF\/T188GlXgJjiI3iFcEl5hQy\/NnVeUYkQQk4FZphVruIX4VI6nAmCAN4DQgjpKZgDQkgJs6H5i25VdO190MIi7NnwRAHEAURIwo3cTHjb7Sqv4ri3m5X4iedeXsd51XND4uOxQ0\/JYwf\/6nxTFlRoD+2W5Sevo82f7XraFT\/zR31ACCH5AY+A9mLoGjBxPAG65osmnxonhBCSDQoQQkqU+vatcjy1zxEDZW54hXKLCSbETeEwd7MS732QcO6Ih4HJgfLBIZ+QGYMuFglleySC12Hlw4O+Hj+0zjn+6rXvnqyTz9M1ROB7UcgrUZ64+dnup91v5o86QwghuaN3mAK6zkhX+UQIvbJzL5i4TQjpaRiCRUiJAgGypeUfXC8HPBwIo9L5G4Hnw8rT8N6XyUdqrpdzHQESh7WH1zriY72RJ5JMe1Xw3g27QviV13\/Kygn5z9M+KgsoQgjJC+zuZe+mpbf41Ynm5pa19la8cXbaIoSQXKEHhJCSxSgkCA9IUBFdPG+EVePDDJuaMGBGrB62Nr0gTx5+wg+70h4UZXhAdF2RlPN9wk90DYdm\/duuZ2VM1VA5Z+hYIYTkBna+0knamjhb\/AJ4S7raKpcQQvKB2\/ASUqIkxNhWN7R9bnpbXfwDoaucm8KgSgbH6mPb0S3BVrshwZMw+5WQ4EjqfBJja9\/nGt4VQkju6Dojcbf4BfCOIOmc4oMQ0lvQA0JIqeIa\/r7nwczzcN9LqLq6Wf3cFROJeJGb46vGS21rbaeEczO3JOHmnpSlxZBRSV3niAwuqxBCSP5g+14c2BUL3hBUVre3rM11m2FCCMkXChBCShgzxMo0+tMVyjuHRCVySBu7cNjHZEfzDjlystEXNxLslmVXUk\/3KYH3JeV8N7ZqMBPRCekhcqlHQgghvQVDsAgpYWxvhFgVzc0wqKTxd1ywE9YXJ94swyuG+QIm5R9GP2JXUU8FgmSMIz7uOOtKGVM5RAghhBBSHFCAEFKyGPkXRs6HLQ6Suk5HSCzEZ1jFcLlp0lfSIsTPCYEQkQgRovNDkHj+3868SkZTfBBCCCFFBQUIISWKl3ORCokL7X3olK+RSCej60ofueCJkC8ZnpAI4WH8PdoRHz8442pHfAwVQgghhBQXFCCElCqJtAckHV4lYS9FQnUWDHkIEDDcESFfnnyT81oj4ieXhz0i3uuoiiHyvdMXyajKaiGEEEJI8UEBQkiJUi7V0eFWCVtshEOvcskBsYEIudkRISPgCQkEju+FgfhwRMd3T7+W4oMQQggpYihACClRqhLjZYBzaI9GeMerlJcTEnhEUt53zuvQ5CgZUjZa8gVhWF+dstQRITXBNrt4HVU5VL49\/XMUH4QQQkiRk1BK5f84kxBS0BxXe+XdE7+SVrVfUsrxfzhHynkukVIJ9++UKvP2rVLeZzXlZ8iZA692BMgY6S71bQ3yh30PyJst78r0gdPk+olXu6KEEEIIIcUNBQghhBBCCCGkz2AIFiGEEEIIIaTPoAAhhBBCCCGE9BkUIIQQQgghhJA+gwKEEEIIIYQQ0mdQgBBCCCGEEEL6DAoQQgghhBBCSJ9BAUIIIYQQQgjpM\/4DiPTB\/S5Q40IAAAAASUVORK5CYII=\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "IntegerLiteral",
       "offset": 920,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "IntegerLiteral",
       "offset": 931,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "IntegerLiteral",
       "offset": 951,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "IntegerLiteral",
       "offset": 966,
       "length": 4,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "IntegerLiteral",
       "offset": 980,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Property.swift",
       "kind": "FloatLiteral",
       "offset": 1049,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 206,
       "length": 2,
       "value": "44"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 271,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 331,
       "length": 5,
       "value": "235.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 341,
       "length": 5,
       "value": "245.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 351,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 361,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 420,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 428,
       "length": 5,
       "value": "122.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 438,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 448,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 513,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 573,
       "length": 5,
       "value": "215.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 583,
       "length": 5,
       "value": "215.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 593,
       "length": 5,
       "value": "215.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/BlueIndicatorStyle.swift",
       "kind": "FloatLiteral",
       "offset": 603,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 3,
       "value": "220"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 246,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 307,
       "length": 5,
       "value": "230.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 317,
       "length": 5,
       "value": "230.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 327,
       "length": 5,
       "value": "230.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 337,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 396,
       "length": 4,
       "value": "90.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 405,
       "length": 4,
       "value": "90.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 414,
       "length": 4,
       "value": "90.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 423,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 488,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 538,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 550,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 561,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 573,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 656,
       "length": 4,
       "value": "18.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/Style.swift",
       "kind": "FloatLiteral",
       "offset": 798,
       "length": 4,
       "value": "18.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 307,
       "length": 4,
       "value": "47.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "IntegerLiteral",
       "offset": 348,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "IntegerLiteral",
       "offset": 354,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 379,
       "length": 5,
       "value": "200.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 474,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 513,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 751,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 790,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 852,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1067,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "FloatLiteral",
       "offset": 1107,
       "length": 4,
       "value": "25.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1147,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1176,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "IntegerLiteral",
       "offset": 3236,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "BooleanLiteral",
       "offset": 5149,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionCell.swift",
       "kind": "StringLiteral",
       "offset": 5191,
       "length": 10,
       "value": "\"playIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1231,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1281,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1304,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1322,
       "length": 5,
       "value": "0.005"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1403,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1421,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1480,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1502,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1557,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1602,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1632,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1678,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1795,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/GradientArcView.swift",
       "kind": "BooleanLiteral",
       "offset": 2172,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "IntegerLiteral",
       "offset": 615,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "IntegerLiteral",
       "offset": 624,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "IntegerLiteral",
       "offset": 635,
       "length": 3,
       "value": "150"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "IntegerLiteral",
       "offset": 647,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
       "offset": 707,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
       "offset": 795,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
       "offset": 847,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
       "offset": 935,
       "length": 23,
       "value": "\"videoInstructionsCell\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
       "offset": 1041,
       "length": 22,
       "value": "\"textInstructionsCell\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "BooleanLiteral",
       "offset": 1242,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "StringLiteral",
       "offset": 1281,
       "length": 29,
       "value": "\"initial.screen.button.title\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "FloatLiteral",
       "offset": 444,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 867,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1370,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1466,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "BooleanLiteral",
       "offset": 325,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 581,
       "length": 5,
       "value": "230.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 786,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 1269,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 1473,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 1674,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 2116,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringLayer.swift",
       "kind": "FloatLiteral",
       "offset": 2248,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "FloatLiteral",
       "offset": 177,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "FloatLiteral",
       "offset": 249,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 928,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 946,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1005,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1027,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1078,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "FloatLiteral",
       "offset": 1125,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "IntegerLiteral",
       "offset": 1155,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Elements\/ArcView.swift",
       "kind": "BooleanLiteral",
       "offset": 1492,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 1211,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
       "offset": 1289,
       "length": 4,
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 1329,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 1502,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "StringLiteral",
       "offset": 1538,
       "length": 18,
       "value": "\"alert.view.title\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
       "offset": 1617,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 1869,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
       "offset": 2004,
       "length": 4,
       "value": "14.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 2040,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 2219,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "StringLiteral",
       "offset": 2258,
       "length": 25,
       "value": "\"alert.view.button.title\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "BooleanLiteral",
       "offset": 665,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 912,
       "length": 5,
       "value": "230.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 1108,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 1570,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 1774,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 1977,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 2407,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/ShimmeringView.swift",
       "kind": "FloatLiteral",
       "offset": 2632,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 200,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 266,
       "length": 4,
       "value": "32.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 327,
       "length": 4,
       "value": "40.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 336,
       "length": 5,
       "value": "110.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 346,
       "length": 4,
       "value": "60.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 355,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 465,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 514,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 526,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 537,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 549,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "StringLiteral",
       "offset": 619,
       "length": 14,
       "value": "\"Verdana-Bold\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 641,
       "length": 4,
       "value": "18.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "StringLiteral",
       "offset": 773,
       "length": 9,
       "value": "\"Verdana\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/GreenLightStyle.swift",
       "kind": "FloatLiteral",
       "offset": 790,
       "length": 4,
       "value": "18.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 6,
       "value": "\"%.0f\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 3,
       "value": "\"%\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Progress\/Core\/ProgressAtRatioView.swift",
       "kind": "FloatLiteral",
       "offset": 308,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
       "kind": "FloatLiteral",
       "offset": 255,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
       "kind": "FloatLiteral",
       "offset": 271,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Utils\/ColorUtil.swift",
       "kind": "FloatLiteral",
       "offset": 286,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 344,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "FloatLiteral",
       "offset": 440,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 22,
       "value": "\"initial.screen.title\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 871,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 961,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "StringLiteral",
       "offset": 1048,
       "length": 22,
       "value": "\"videoInstructionCell\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreVideoInstructionsCollectionViewCell.swift",
       "kind": "Array",
       "offset": 1206,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 202,
       "length": 2,
       "value": "80"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
       "kind": "FloatLiteral",
       "offset": 267,
       "length": 3,
       "value": "6.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/Styles\/OrangeClearStyle.swift",
       "kind": "FloatLiteral",
       "offset": 543,
       "length": 4,
       "value": "13.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 414,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
       "offset": 330,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "FloatLiteral",
       "offset": 395,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "StringLiteral",
       "offset": 582,
       "length": 28,
       "value": "\"initial.screen.description\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
       "offset": 796,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "FloatLiteral",
       "offset": 865,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2865,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "BooleanLiteral",
       "offset": 3077,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "IntegerLiteral",
       "offset": 3146,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreTextInstructionsCell.swift",
       "kind": "FloatLiteral",
       "offset": 3206,
       "length": 4,
       "value": "14.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
       "kind": "BooleanLiteral",
       "offset": 375,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
       "kind": "BooleanLiteral",
       "offset": 1250,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/GradientCircularProgress.swift",
       "kind": "BooleanLiteral",
       "offset": 4875,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
       "offset": 3519,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
       "offset": 3551,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
       "offset": 3748,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "FloatLiteral",
       "offset": 3782,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
       "kind": "BooleanLiteral",
       "offset": 289,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
       "kind": "StringLiteral",
       "offset": 316,
       "length": 34,
       "value": "\"Powered by The Able Technologies\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
       "kind": "FloatLiteral",
       "offset": 441,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Custom views\/CoreBaseView.swift",
       "kind": "FloatLiteral",
       "offset": 503,
       "length": 4,
       "value": "12.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 204,
       "length": 4,
       "value": "54.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 272,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 332,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 340,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 348,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 355,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 416,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 424,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 432,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 439,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 504,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 3,
       "value": "226"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 572,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 580,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 587,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "BooleanLiteral",
       "offset": 1283,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "BooleanLiteral",
       "offset": 1456,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1519,
       "length": 4,
       "value": "16.0"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 1593,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 7,
       "value": "\"slide\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 6,
       "value": "\"fade\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Shimmer\/Shimmer.swift",
       "kind": "StringLiteral",
       "offset": 419,
       "length": 10,
       "value": "\"fade-end\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 763,
       "length": 27,
       "value": "\"acessoriesInstructionIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 950,
       "length": 27,
       "value": "\"brightnessInstructionIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1129,
       "length": 23,
       "value": "\"brightnessWarningIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1280,
       "length": 11,
       "value": "\"closeIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1443,
       "length": 23,
       "value": "\"expressionWarningIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1622,
       "length": 25,
       "value": "\"eyeLevelInsturctionIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1773,
       "length": 10,
       "value": "\"playIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1929,
       "length": 20,
       "value": "\"processingDoneIcon\""
     },
     {
-      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-exbuhpihvcctzagphflobepeayqn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphonesimulator\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2099,
       "length": 22,
