@@ -74,9 +74,11 @@ AbleID.service.startLiveness(from: UIViewController, transaction: Transaction, l
 
 The Able ID SDK provides an error enumeration named **AbleIdLivenessError**, which includes three distinct cases:
 
-   - **1. userCancellationError**<br/> - Occurs when the user decides to cancel the Liveness Session.
-   - **2. ableLivenessProcessingError**<br/> - Indicates an internal error during the Liveness processing phase.
-   - **3. ableInstructionsLoadError**<br/> - Signifies an error encountered while loading the necessary instructions.
+   - **1. userCancellationError**<br/> - User canceled the liveness process.
+   - **2. ableLivenessProcessingError**<br/> - Failed to start Able Liveness.
+   - **3. ableInstructionsLoadError**<br/> - Failed to load instructions.
+   - **4. ableInitializationError**<br/> - Failed to initialize Able Liveness.
+   - **5. ableCompletionRequestError**<br/> - Failed to complete the request.
 
 ## Requirements
 iOS 13 & Swift 5.0
