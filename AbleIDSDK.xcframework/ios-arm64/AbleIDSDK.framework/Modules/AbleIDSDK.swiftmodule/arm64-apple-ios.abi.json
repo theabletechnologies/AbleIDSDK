@@ -164,6 +164,23 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "AbleIDSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AbleIDSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "AbleIDSDK",
         "declAttributes": [
           "RawDocComment"
@@ -1118,6 +1135,80 @@
           },
           {
             "kind": "Var",
+            "name": "ableInitializationError",
+            "printedName": "ableInitializationError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AbleIDSDK.AbleIdLivenessError.Type) -> AbleIDSDK.AbleIdLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AbleIdLivenessError",
+                    "printedName": "AbleIDSDK.AbleIdLivenessError",
+                    "usr": "s:9AbleIDSDK0A15IdLivenessErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AbleIDSDK.AbleIdLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AbleIdLivenessError",
+                        "printedName": "AbleIDSDK.AbleIdLivenessError",
+                        "usr": "s:9AbleIDSDK0A15IdLivenessErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9AbleIDSDK0A15IdLivenessErrorO018ableInitializationE0yA2CmF",
+            "mangledName": "$s9AbleIDSDK0A15IdLivenessErrorO018ableInitializationE0yA2CmF",
+            "moduleName": "AbleIDSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "ableCompletionRequestError",
+            "printedName": "ableCompletionRequestError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AbleIDSDK.AbleIdLivenessError.Type) -> AbleIDSDK.AbleIdLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AbleIdLivenessError",
+                    "printedName": "AbleIDSDK.AbleIdLivenessError",
+                    "usr": "s:9AbleIDSDK0A15IdLivenessErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AbleIDSDK.AbleIdLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AbleIdLivenessError",
+                        "printedName": "AbleIDSDK.AbleIdLivenessError",
+                        "usr": "s:9AbleIDSDK0A15IdLivenessErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9AbleIDSDK0A15IdLivenessErrorO021ableCompletionRequestE0yA2CmF",
+            "mangledName": "$s9AbleIDSDK0A15IdLivenessErrorO021ableCompletionRequestE0yA2CmF",
+            "moduleName": "AbleIDSDK"
+          },
+          {
+            "kind": "Var",
             "name": "errorDescription",
             "printedName": "errorDescription",
             "children": [
@@ -1763,6 +1854,16 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AbleIDSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AbleIDSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -2732,21 +2833,21 @@
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 867,
+      "offset": 858,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1370,
+      "offset": 1315,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Gradient Progress\/ProgressViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1466,
+      "offset": 1411,
       "length": 5,
       "value": "false"
     },
@@ -2879,77 +2980,77 @@
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1211,
+      "offset": 833,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
-      "offset": 1289,
+      "offset": 911,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1329,
+      "offset": 951,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1502,
+      "offset": 1124,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1538,
+      "offset": 1160,
       "length": 18,
       "value": "\"alert.view.title\""
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
-      "offset": 1617,
+      "offset": 1239,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1869,
+      "offset": 1491,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "FloatLiteral",
-      "offset": 2004,
+      "offset": 1626,
       "length": 4,
       "value": "14.0"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2040,
+      "offset": 1662,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2219,
+      "offset": 1841,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreCustomAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2258,
+      "offset": 1880,
       "length": 25,
       "value": "\"alert.view.button.title\""
     },
@@ -3334,28 +3435,28 @@
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3519,
+      "offset": 2988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3551,
+      "offset": 3020,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3748,
+      "offset": 3217,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Processing and Retrial\/CoreProcessingController.swift",
       "kind": "FloatLiteral",
-      "offset": 3782,
+      "offset": 3251,
       "length": 3,
       "value": "1.0"
     },
@@ -3540,6 +3641,13 @@
       "offset": 419,
       "length": 10,
       "value": "\"fade-end\""
+    },
+    {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Services\/AbleCompletionService.swift",
+      "kind": "FloatLiteral",
+      "offset": 348,
+      "length": 3,
+      "value": "0.3"
     },
     {
       "filePath": "\/Users\/jasursalimov\/Library\/Developer\/Xcode\/DerivedData\/AbleIDSDK-fqlceubjahvilqcfxzeifwynsdoo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AbleIDSDK\/IntermediateBuildFilesPath\/AbleIDSDK.build\/Release-iphoneos\/AbleIDSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",

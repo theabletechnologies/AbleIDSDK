@@ -38,6 +38,8 @@ public enum AbleIdLivenessError : Swift.Error {
   case userCancellationError
   case ableLivenessProcessingError
   case ableInstructionsLoadError
+  case ableInitializationError
+  case ableCompletionRequestError
   public var errorDescription: Swift.String? {
     get
   }
@@ -51,7 +53,7 @@ public typealias LivenessResult = Swift.Result<AbleIDSDK.AbleIdLivenessResponse,
 @_hasMissingDesignatedInitializers final public class AbleID {
   public static let service: AbleIDSDK.AbleID
   final public func configure(with configuration: AbleIDSDK.AbleIdConfiguration)
-  final public func startLiveness(from controller: UIKit.UIViewController, transaction: AbleIDSDK.Transaction, locale: AbleIDSDK.AbleLocale = .preferred, completion: @escaping (AbleIDSDK.LivenessResult) -> Swift.Void)
+  final public func startLiveness(from controller: UIKit.UIViewController, transaction: AbleIDSDK.Transaction, locale: AbleIDSDK.AbleLocale = .preferred, completion: @escaping (AbleIDSDK.LivenessResult) -> ())
   @objc deinit
 }
 public struct AbleIdConfiguration {

@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rnZfnzcLnmD5RygO+BzjES2cKI4=
+		GmPnn4GiYq69PWwo+slfIn4nHiw=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lXNgiS5ceQMW6j5lJAdt+DM5P6s=
+		Ln56TTX+eNQxTZD4rBevCrPozyU=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		eVzGHnTnAcyRHgrAMnetwhx7ytY=
+		N3DA9e4yAXABFq3hWyE3KVphpyQ=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		eVzGHnTnAcyRHgrAMnetwhx7ytY=
+		N3DA9e4yAXABFq3hWyE3KVphpyQ=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UZhTvMo/PBmdErte10wjglRofFE=
+		pux6mh7tEK/UyErFxWjk/PScTIg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,14 +112,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8mqk6LWe1SR9yR1hNnaGN3JZaR4iexwPfmW6RGYjAt8=
+			wHrusIE07R7wJeBG/Twmvwhv4IZ1E4n46+lqFsx759w=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/CAGOwUuRBZ+LbtYJDqTsa84Pl41KtdToT27Bn/VAas=
+			txt6+tZwlWo0NBHTJU7AOtopLHyB6IjuXTHUD0ownJk=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -133,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/CAGOwUuRBZ+LbtYJDqTsa84Pl41KtdToT27Bn/VAas=
+			txt6+tZwlWo0NBHTJU7AOtopLHyB6IjuXTHUD0ownJk=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ptIvcLQewMP3OYRV3Yh1n5UQ/wSdZBcwceSaryW9MQw=
+			08JqdKYytgIdmRID2J57s9MZq2/DS5sO+oAUdZWhIlo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
