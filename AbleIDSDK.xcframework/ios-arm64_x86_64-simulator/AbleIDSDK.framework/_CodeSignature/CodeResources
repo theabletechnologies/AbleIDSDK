@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		qiYJ4iHRiAkVtknxpx16DLTpzHw=
+		/66BwuC1W3lRCdFXO4khiObKOXM=
 		</data>
 		<key>Headers/AbleIDSDK.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nc0qdU/BcgE4VLOSV290Iv/c3+Y=
+		1QVarME8cQyzRzsd2Im8sqygikQ=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Natddk6uN3ZhgJv0IwLksZQuUPw=
+		l1SKopIuy+ooJu0XZ4ghujTTwtM=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		r5wY84Lx9MEApofhKpSuK6fSgow=
+		2Y1wKjidox4JIVnwxbaD6DpnGYw=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Natddk6uN3ZhgJv0IwLksZQuUPw=
+		l1SKopIuy+ooJu0XZ4ghujTTwtM=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		T7FHuS2Mp+5TFwribzkhYPWrZuY=
+		SKWYxjDjRxOSzzF98HpfCVBiJ9k=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PHkqfzNMu4Aq+qQ2Wf/Sa5IKgmY=
+		M8+6x9yo9q8yzHqsJL/EFu9L7K0=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		COyjulTPm0ldpZKeXOFKjeM+jqY=
+		wYE78IgU+NlDouz4kqCM7aBg+dM=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PHkqfzNMu4Aq+qQ2Wf/Sa5IKgmY=
+		M8+6x9yo9q8yzHqsJL/EFu9L7K0=
 		</data>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MtljFCptbd9DmCt3WJ0PCAiZP08=
+		7BEbsnckWl/CqMRitS1rkNTay+w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -118,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qI6sA0n7nzRL65ZgU8puYTODTpCQw/oZo8TWBmt+6N4=
+			IYUW1r9hF/6XkbeTeTyZeOd+YZ401dy4dNx7ysoE+bQ=
 			</data>
 		</dict>
 		<key>Headers/AbleIDSDK.h</key>
@@ -139,28 +139,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			flciNowF1PG54MaMBJd0rTcMmw1h9R8ik9mft/bqJsE=
+			gYpiztqR/+HdQG8zG2HJYhoW+VKgllfAyBVgCytvKBA=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3pEX7GZj+G+Lq90U2OMqpS+hIEjc9SlmPer+aVVwOHw=
+			F2vim6rwJHjwnB/UVjkss2jPp6EsUxrKhONFp3sfUmI=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			flciNowF1PG54MaMBJd0rTcMmw1h9R8ik9mft/bqJsE=
+			gYpiztqR/+HdQG8zG2HJYhoW+VKgllfAyBVgCytvKBA=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YqhvM3BjndtYDmDqGsyLG930ha9w12XU8uxNJv4xXro=
+			zXfm67gM8xB3FnWN8aS53sLug2GhhL9H2tGS4jexM+k=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -174,28 +174,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QxbJHbPLPaNKoJWx8kmTVBdBB306HiUdtQPYxz2/GiA=
+			hyBq9KnPWpgxiJo7njEzGxoeP2cJF+Jn26mm+NeMiBw=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fud9fmM7aM7/MJuGHR6sVDH0Q5acHXfCJM+Skc/noAw=
+			LH+p52WaG7ODeHml/gDzt97qQeCn8S7PyKgfNftznh4=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QxbJHbPLPaNKoJWx8kmTVBdBB306HiUdtQPYxz2/GiA=
+			hyBq9KnPWpgxiJo7njEzGxoeP2cJF+Jn26mm+NeMiBw=
 			</data>
 		</dict>
 		<key>Modules/AbleIDSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y85n2egnpyL9QnlAmIEzUHtsjHTgtXYVsd8Ajg/cAy0=
+			21zXzgThR3lgOx78gZTjMEq07k72Gfzl69DbIyzBorI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
