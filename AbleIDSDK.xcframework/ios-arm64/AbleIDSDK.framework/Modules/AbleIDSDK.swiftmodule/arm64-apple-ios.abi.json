@@ -2754,6 +2754,13 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Coordinators\/AbleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 615,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/Source(AbleID)\/AbleIDSDK\/AbleIDSDK\/Introduction\/CoreControllerView.swift",
       "kind": "IntegerLiteral",
       "offset": 615,
