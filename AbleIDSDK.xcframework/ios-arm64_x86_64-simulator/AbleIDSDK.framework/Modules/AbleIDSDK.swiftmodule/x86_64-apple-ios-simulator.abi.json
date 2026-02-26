@@ -1491,6 +1491,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -2086,6 +2093,16 @@
         "moduleName": "AbleIDSDK"
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AbleIDSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "URLSession",
         "printedName": "URLSession",
@@ -2179,6 +2196,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       }
@@ -3738,7 +3762,7 @@
       "kind": "StringLiteral",
       "offset": 551,
       "length": 7,
-      "value": "\"1.0.1\""
+      "value": "\"1.0.2\""
     },
     {
       "filePath": "\/Users\/runner\/work\/AbleIDSDK-iOS-source-\/AbleIDSDK-iOS-source-\/AbleIDSDK\/Configurations\/ConfigurationProvider.swift",
