@@ -3800,7 +3800,7 @@
       "kind": "StringLiteral",
       "offset": 551,
       "length": 7,
-      "value": "\"1.1.0\""
+      "value": "\"1.1.1\""
     },
     {
       "filePath": "\/Users\/jasursalimov\/Desktop\/AbleIDSDK\/iOS\/Source\/AbleIDSDK\/Configurations\/ConfigurationProvider.swift",
