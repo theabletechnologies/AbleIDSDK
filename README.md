@@ -104,12 +104,6 @@ dependencies: [
 
 > Note: Xcode may flag the binary framework as an unsigned dependency the first time you resolve the package; accept it to continue.
 
-#### Pre-built Framework
-
-1. Open the release page, download the latest version of AbleIDSDK from the assets section. 
-2. Drag the `AbleIDSDK.xcframework` into your project and add it to the target (usually the app target).
-3. Select your target, in the "General" Tab, find the "Frameworks, Libraries, and Embedded Content" section, set the `Embed Without Signing` to AbleIDSDK.
-
 ## Author
 
 Jasur Salimov, jasurtsalimov@gmail.com
