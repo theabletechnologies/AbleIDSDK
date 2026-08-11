@@ -98,7 +98,7 @@ Or declare it in your own `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/theabletechnologies/AbleIDSDK.git", from: "1.1.5")
+    .package(url: "https://github.com/theabletechnologies/AbleIDSDK.git", from: "1.1.6")
 ]
 ```
 
