@@ -4,11 +4,10 @@
 
 
 <p align="center">
-<a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/github/v/tag/theabletechnologies/AbleIDSDK.svg?color=blue&include_prereleases=&sort=semver"></a>
+<a href="https://github.com/theabletechnologies/AbleIDSDK/releases"><img src="https://img.shields.io/github/v/tag/theabletechnologies/AbleIDSDK.svg?color=blue&include_prereleases=&sort=semver"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat"></a>
 <a href="https://raw.githubusercontent.com/theabletechnologies/AbleIDSDK/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
-<a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/cocoapods/v/AbleIDSDK.svg?style=flat"></a>
-<a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/cocoapods/p/AbleIDSDK.svg?style=flat"></a>
+<a href="https://developer.apple.com/ios/"><img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg?style=flat"></a>
 </p>
 
 Able ID SDK offers robust facial recognition, safeguarding against fraudulent attempts. It employs biometric verification and thwarts presentation attacks, including static images, printed photos, video replays, injections, and masks, ensuring secure and reliable identification.
@@ -99,23 +98,11 @@ Or declare it in your own `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/theabletechnologies/AbleIDSDK.git", from: "1.1.2")
+    .package(url: "https://github.com/theabletechnologies/AbleIDSDK.git", from: "1.1.4")
 ]
 ```
 
 > Note: Xcode may flag the binary framework as an unsigned dependency the first time you resolve the package; accept it to continue.
-
-#### CocoaPods
-
-```ruby
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '13.0'
-use_frameworks!
-
-target 'MyApp' do
-  pod 'AbleIDSDK'
-end
-```
 
 #### Pre-built Framework
 
