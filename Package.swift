@@ -13,9 +13,9 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/regulaforensics/FaceSDK-Swift-Package.git",
-                 .upToNextMinor(from: "8.2.4157")),
+                 .upToNextMinor(from: "8.3.4727")),
         .package(url: "https://github.com/regulaforensics/FaceCoreBasic-Swift-Package.git",
-                 .upToNextMinor(from: "8.2.2127"))
+                 .upToNextMinor(from: "8.3.2550"))
     ],
     targets: [
         .binaryTarget(
