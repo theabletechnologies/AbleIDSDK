@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.version      = '1.1.3'
   s.summary      = 'The AbleIDSDK is solely developed to provide face liveness detection check.'
   s.description  = "The AbleIDSDK is solely developed to provide face liveness detection check and it should be used only with the permission of the The Able Technologies."
-  s.homepage     = "https://github.com/JasurSalimov"
+  s.homepage     = "https://github.com/theabletechnologies/AbleIDSDK"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author        = { 'Jasur Salimov' => 'jasurtsalimov@gmail.com' }
 

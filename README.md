@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/JasurSalimov/AbleIDSDK/master/images/logo.png" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
+<img src="https://raw.githubusercontent.com/theabletechnologies/AbleIDSDK/master/images/logo.png" alt="AbleIDSDK" title="AbleIDSDK" width="557"/>
 </p>
 
 
 <p align="center">
-<a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/github/v/tag/JasurSalimov/AbleIDSDK.svg?color=blue&include_prereleases=&sort=semver"></a>
+<a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/github/v/tag/theabletechnologies/AbleIDSDK.svg?color=blue&include_prereleases=&sort=semver"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat"></a>
-<a href="https://raw.githubusercontent.com/onevcat/AbleIDSDK/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
+<a href="https://raw.githubusercontent.com/theabletechnologies/AbleIDSDK/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
 <a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/cocoapods/v/AbleIDSDK.svg?style=flat"></a>
 <a href="https://cocoapods.org/pods/AbleIDSDK"><img src="https://img.shields.io/cocoapods/p/AbleIDSDK.svg?style=flat"></a>
 </p>
@@ -85,7 +85,25 @@ iOS 13 & Swift 5.0
 
 ## Installation
 
-#### Swift Package Manager - coming soon
+#### Swift Package Manager
+
+In Xcode, go to **File ▸ Add Package Dependencies…** and enter:
+
+```
+https://github.com/theabletechnologies/AbleIDSDK
+```
+
+Add the `AbleIDSDK` library product to your app target. The required Regula dependencies (`FaceSDK`, `FaceCoreBasic`) are resolved automatically — do not add them manually.
+
+Or declare it in your own `Package.swift`:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/theabletechnologies/AbleIDSDK.git", from: "1.1.2")
+]
+```
+
+> Note: Xcode may flag the binary framework as an unsigned dependency the first time you resolve the package; accept it to continue.
 
 #### CocoaPods
 
