@@ -80,7 +80,7 @@ The Able ID SDK provides an error enumeration named **AbleIdLivenessError**, whi
    - **5. ableCompletionRequestError**<br/> - Failed to complete the request.
 
 ## Requirements
-iOS 13 & Swift 5.0
+iOS 13.0+ & Swift 5.5+ (Xcode 13 or later)
 
 ## Installation
 
