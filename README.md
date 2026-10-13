@@ -80,7 +80,7 @@ The Able ID SDK provides an error enumeration named **AbleIdLivenessError**, whi
    - **5. ableCompletionRequestError**<br/> - Failed to complete the request.
 
 ## Requirements
-iOS 13.0+ & Swift 5.5+ (Xcode 13 or later)
+iOS 15.0+ & Swift 5.5+ (Xcode 13 or later)
 
 ## Installation
 
@@ -92,7 +92,7 @@ In Xcode, go to **File ▸ Add Package Dependencies…** and enter:
 https://github.com/theabletechnologies/AbleIDSDK
 ```
 
-Add the `AbleIDSDK` library product to your app target. The required Regula dependencies (`FaceSDK`, `FaceCoreBasic`) are resolved automatically — do not add them manually.
+Add the `AbleIDSDK` library product to your app target. Its dependencies are resolved automatically — do not add them manually.
 
 Or declare it in your own `Package.swift`:
 

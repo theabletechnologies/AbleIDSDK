@@ -7,15 +7,15 @@ let checksum = "1fc40514a2823481464b729d697534daafd638763d0d7c79f13dfbb6c7bc7142
 
 let package = Package(
     name: "AbleIDSDK",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(name: "AbleIDSDK", targets: ["AbleIDSDKWrapper"])
     ],
     dependencies: [
         .package(url: "https://github.com/regulaforensics/FaceSDK-Swift-Package.git",
-                 .exact("8.3.4727")),
+                 .exact("8.4.5062")),
         .package(url: "https://github.com/regulaforensics/FaceCoreBasic-Swift-Package.git",
-                 .exact("8.3.2550"))
+                 .exact("8.4.2746"))
     ],
     targets: [
         .binaryTarget(
