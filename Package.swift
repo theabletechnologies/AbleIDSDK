@@ -7,7 +7,7 @@ let checksum = "1fc40514a2823481464b729d697534daafd638763d0d7c79f13dfbb6c7bc7142
 
 let package = Package(
     name: "AbleIDSDK",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v17)],
     products: [
         .library(name: "AbleIDSDK", targets: ["AbleIDSDKWrapper"])
     ],
