@@ -2,8 +2,8 @@
 import PackageDescription
 
 // Rewritten by the release pipeline — keep each on its own line.
-let version = "1.1.6"
-let checksum = "1fc40514a2823481464b729d697534daafd638763d0d7c79f13dfbb6c7bc7142"
+let version = "1.2.0"
+let checksum = "eb00fa8d5e140a2ceb3a7400733725b5281dbac268d33451b1b358db9c6340b5"
 
 let package = Package(
     name: "AbleIDSDK",
