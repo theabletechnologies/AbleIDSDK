@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version:5.9
 import PackageDescription
 
 // Rewritten by the release pipeline — keep each on its own line.
@@ -13,9 +13,9 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/regulaforensics/FaceSDK-Swift-Package.git",
-                 .exact("8.4.5062")),
+                 exact: "8.4.5062"),
         .package(url: "https://github.com/regulaforensics/FaceCoreBasic-Swift-Package.git",
-                 .exact("8.4.2746"))
+                 exact: "8.4.2746")
     ],
     targets: [
         .binaryTarget(
